@@ -25,6 +25,11 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.DS_STORE
+Active_Corporations___Beginning_1800.csv
+Local_Area_Unemployment_Statistics__Beginning_1976.csv
+
+
 MANIFEST
 
 # PyInstaller
