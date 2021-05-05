@@ -1,0 +1,22 @@
+Rank,No,Supersector,NAICS,Industry,Number of Loans,Share of Loans,Value of Loans,Share of Value,Average Loan
+1,7,Professional and Business Services,54,"Professional, Scientific, and Technical Services",70112,14%,7044158918,14%,100470
+2,8,Education and Health Services,62,Health Care and Social Assistance,49247,10%,6774903674,13%,137570
+3,2,Construction,23,Construction,40649,8%,6069393316,12%,149312
+4,9,Leisure and Hospitality,72,Accommodation and Food Services,44529,9%,5518347641,11%,123927
+5,3,Manufacturing,31,Manufacturing,19292,4%,3791703594,7%,196543
+6,4,"Trade, Transportation, and Utilities",44,Retail Trade,48417,10%,3588694869,7%,74121
+7,10,Other Services,81,Other Services (except Public Administration),51571,11%,3091409069,6%,59945
+8,4,"Trade, Transportation, and Utilities",42,Wholesale Trade,20656,4%,2816830512,6%,136369
+9,7,Professional and Business Services,56,Administrative and Support and Waste Management and Remediation Services,20054,4%,2471241516,5%,123229
+10,6,Financial Activities,53,Real Estate and Rental and Leasing,22468,5%,1580874345,3%,70361
+11,8,Education and Health Services,61,Educational Services,9616,2%,1569741188,3%,163243
+12,4,"Trade, Transportation, and Utilities",48,Transportation and Warehousing,24271,5%,1333584827,3%,54946
+13,5,Information,51,Information,9165,2%,1181579633,2%,128923
+14,9,Leisure and Hospitality,71,"Arts, Entertainment, and Recreation",16088,3%,1129338274,2%,70198
+15,6,Financial Activities,52,Finance and Insurance,13147,3%,1041936351,2%,79253
+16,1,Natural Resources and Mining,11,"Agriculture, Forestry, Fishing and Hunting",3736,1%,275349343,1%,73702
+17,11,Government,99,Public Administration,1607,0%,178242038,0%,110916
+18,7,Professional and Business Services,55,Management of Companies and Enterprises,916,0%,112030694,0%,122304
+19,1,Natural Resources and Mining,21,"Mining, Quarrying, and Oil and Gas Extraction",362,0%,64405797,0%,177917
+20,4,"Trade, Transportation, and Utilities",22,Utilities,499,0%,63815161,0%,127886
+21,12,Unclassified,99,Unclassified Establishments,22704,5%,1261721967,3%,55573
